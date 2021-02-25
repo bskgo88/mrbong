@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/* font */
+@font-face {
+font-family:'Droid Sans';
+font-weight:200;
+src:url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq20.eot);
+src:url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq20.eot?#iefix) format('embedded-opentype'),
+    url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq20.woff) format('woff'),
+	url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq20.ttf) format('truetype');
+}
+
+@font-face {
+font-family:'Droid Sans';
+font-weight:400;
+src:url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq40.eot);
+src:url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq40.eot?#iefix) format('embedded-opentype'),
+    url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq40.woff) format('woff'),
+	url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq40.ttf) format('truetype');
+}
+
+@font-face {
+font-family:'Droid Sans';
+font-weight:600;
+src:url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq60.eot);
+src:url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq60.eot?#iefix) format('embedded-opentype'),
+    url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq60.woff) format('woff'),
+	url(https://raw.githubusercontent.com/bskgo88/mrbong/main/font/cq60.ttf) format('truetype');
+}
